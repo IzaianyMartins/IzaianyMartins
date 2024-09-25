@@ -1,4 +1,6 @@
-## Olá, pode me chamar de Iza! Atualmente faço curso de engenharia de Software e estou dando meus primeiros passos no mundo da Tecnologia!
+## Olá, pode me chamar de Iza! 🖖🏼 
+
+### Atualmente faço curso de engenharia de Software e estou dando meus primeiros passos no mundo da Tecnologia!
 
 
 ### Contato
