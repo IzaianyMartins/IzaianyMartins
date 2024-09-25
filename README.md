@@ -1,6 +1,6 @@
 ## Olá, pode me chamar de Iza! 🖖🏼 
 
-### Atualmente faço curso de engenharia de Software e estou dando meus primeiros passos no mundo da Tecnologia!
+### Atualmente faço curso de Engenharia de Software e estou dando meus primeiros passos no mundo da Tecnologia!
 
 
 ### Contato
@@ -26,4 +26,4 @@
 
 
 
-##### "O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós." Satre
+#### "O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós." Satre
