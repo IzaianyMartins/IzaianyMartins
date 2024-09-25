@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
-## Linguagens mais utilizadas 
+### Linguagens mais utilizadas 
 [![izaiany](https://github-readme-stats.vercel.app/api/top-langs/?username=izaianymartins&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
